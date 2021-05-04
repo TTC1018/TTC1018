@@ -20,3 +20,6 @@
 ## 📃참여 대외활동
 
 **[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 우수상**
+
+## 💻
+[Android - 유튜브 뮤직 가사보기 어플(2021)](https://github.com/Leewongi0731/lyrics-search-for-youtube)
