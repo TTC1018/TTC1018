@@ -14,7 +14,8 @@
 <br/>
 <img src="https://img.shields.io/badge/Linux-E95420?style=forthebage&logo=Ubuntu&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=forthebage&logo=Android&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=forthebage&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Qt-41CD52?style=forthebage&logo=Qt&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Oracle-F80000?style=forthebage&logo=Oracle&logoColor=white"/></a> &nbsp
 </p>
 
 ## 📃참여 대외활동
