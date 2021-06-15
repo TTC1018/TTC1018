@@ -7,6 +7,7 @@
 <p align="center">
 
 <br/>
+  <img src="https://img.shields.io/badge/Kotlin-f3841c?style=forthebage&logo=Kotlin&logoColor=blue"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=forthebage&logo=Java&logoColor=orange"/></a> &nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=forthebage&logo=C&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C++-c002c2?style=forthebage&logo=c%2B%2B&logoColor=white"/></a> &nbsp
