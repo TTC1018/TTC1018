@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/39405316/112158091-2fe5be00-8c2b-11eb-8f42-7b79b5d43bfd.png" width="150" height="137">
-
-
 <p align="center">
 
 <br/>
@@ -18,6 +16,8 @@
 <img src="https://img.shields.io/badge/Qt-41CD52?style=forthebage&logo=Qt&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=forthebage&logo=Oracle&logoColor=white"/></a> &nbsp
 </p>
+
+[<div align=center>![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs246)](https://solved.ac/emforhs246)</div>
 
 ## 📃Participation
 
