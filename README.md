@@ -5,13 +5,13 @@
 <p align="center">
 
 <br/>
-  <img src="https://img.shields.io/badge/Kotlin-f3841c?style=forthebage&logo=Kotlin&logoColor=blue"/></a> &nbsp
+<img src="https://img.shields.io/badge/Kotlin-f3841c?style=forthebage&logo=Kotlin&logoColor=blue"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=forthebage&logo=Java&logoColor=orange"/></a> &nbsp
-<img src="https://img.shields.io/badge/C-A8B9CC?style=forthebage&logo=C&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C++-c002c2?style=forthebage&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=forthebage&logo=Python&logoColor=yellow"/></a> &nbsp
+<img src="https://img.shields.io/badge/C++-c002c2?style=forthebage&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=forthebage&logo=C&logoColor=white"/></a> &nbsp
+
 <br/>
-<img src="https://img.shields.io/badge/Linux-E95420?style=forthebage&logo=Ubuntu&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=forthebage&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Qt-41CD52?style=forthebage&logo=Qt&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=forthebage&logo=Oracle&logoColor=white"/></a> &nbsp
