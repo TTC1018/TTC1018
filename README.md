@@ -21,7 +21,9 @@
 
 ## 📃Participation
 
-**[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 [우수상](https://user-images.githubusercontent.com/39405316/116955601-f98d6b00-accd-11eb-8a60-e724f8516ad4.png)**
+**[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 [우수상](https://user-images.githubusercontent.com/39405316/116955601-f98d6b00-accd-11eb-8a60-e724f8516ad4.png)** <br/>
+**[2022] 부스트캠프 웹모바일 7기 챌린지 [수료](https://user-images.githubusercontent.com/39405316/186856331-0a5dc749-cdf2-4d34-a2f3-dad79bbdb8e7.png)** <br/>
+**[2022.08~] 부스트캠프 웹모바일 7기 멤버십** <br/>
 
 ## 💻Challenges
 [\[2021~\] Android(Kotlin) - 나만의 영단어장](https://github.com/TTC1018/MyEngVoc) <br/>
