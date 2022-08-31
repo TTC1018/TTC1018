@@ -19,7 +19,7 @@
 
 [<div align=center>![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs246)](https://solved.ac/emforhs246)</div>
 
-## 📃Participation
+## 📃Participations
 
 **[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 [우수상](https://user-images.githubusercontent.com/39405316/116955601-f98d6b00-accd-11eb-8a60-e724f8516ad4.png)** <br/>
 **[2022] <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16">부스트캠프 웹모바일 7기 챌린지 [수료](https://user-images.githubusercontent.com/39405316/186856331-0a5dc749-cdf2-4d34-a2f3-dad79bbdb8e7.png)** <br/>
@@ -30,4 +30,3 @@
 [\[2021\] Android(Java) - 유튜브 뮤직 가사보기 어플](https://github.com/Leewongi0731/lyrics-search-for-youtube) <br/>
 [\[2020\] Java - 디지털 시계:살빼시계](https://github.com/KU-OOP-TEAM-2/DigitalWatch) <br/>
 [\[2019\] C++ - 노래방 키오스크:쿠인노래방](https://github.com/TTC1018/KUINNORAE) <br/>
-[\[2019\] Java - 멀티채팅:정대만톡](https://github.com/TTC1018/JungDaeManTalk) <br/>
