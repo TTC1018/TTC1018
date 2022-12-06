@@ -28,6 +28,6 @@
 ## 💻Challenges
 [\[2022~\] Android(Kotlin) - DailyFilm 쇼츠 일기장](https://github.com/TTC1018/android02-DailyFilm) <br/>
 [\[2021~\] Android(Kotlin) - 나만의 영단어장](https://github.com/TTC1018/MyEngVoc) <br/>
-[\[2021\] Android(Java) - 유튜브 뮤직 가사보기 어플](https://github.com/Leewongi0731/lyrics-search-for-youtube) <br/>
+[\[2021\] Android(Java) - 유튜브 뮤직 가사보기 어플](https://github.com/TTC1018/lyrics-search-for-youtube) <br/>
 [\[2020\] Java - 디지털 시계:살빼시계](https://github.com/KU-OOP-TEAM-2/DigitalWatch) <br/>
 [\[2019\] C++ - 노래방 키오스크:쿠인노래방](https://github.com/TTC1018/KUINNORAE) <br/>
