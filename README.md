@@ -5,19 +5,21 @@
 <p align="center">
 
 <br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=forthebage&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Kotlin-f3841c?style=forthebage&logo=Kotlin&logoColor=blue"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=forthebage&logo=Java&logoColor=orange"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=forthebage&logo=Python&logoColor=yellow"/></a> &nbsp
-<img src="https://img.shields.io/badge/C++-c002c2?style=forthebage&logo=c%2B%2B&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C-A8B9CC?style=forthebage&logo=C&logoColor=white"/></a> &nbsp
 
 <br/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=forthebage&logo=Android&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Qt-41CD52?style=forthebage&logo=Qt&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Oracle-F80000?style=forthebage&logo=Oracle&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/C++-c002c2?style=forthebage&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=forthebage&logo=C&logoColor=white"/></a> &nbsp
 </p>
 
 [<div align=center>![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs246)](https://solved.ac/emforhs246)</div>
+
+## 💻Careers
+**[2023.03~] <img src="https://user-images.githubusercontent.com/39405316/222351194-bfd42e23-3a3d-4bf3-be93-844cb5d9299d.png" width="16">Wavve Tech Internship App Developer**
+
 
 ## 📃Participations
 **[2022] <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16">부스트캠프 웹모바일 7기 멤버십 [수료](https://user-images.githubusercontent.com/39405316/209513088-21ec2c05-cf6b-468a-9e89-3d1d33239cad.png)** <br/>
@@ -25,7 +27,7 @@
 **[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 [우수상](https://user-images.githubusercontent.com/39405316/116955601-f98d6b00-accd-11eb-8a60-e724f8516ad4.png)** <br/>
 
 
-## 💻Challenges
+## 🛠️Challenges
 [\[2022~\] Android(Kotlin) - DailyFilm 쇼츠 일기장](https://github.com/TTC1018/android02-DailyFilm) <br/>
 [\[2021~\] Android(Kotlin) - 나만의 영단어장](https://github.com/TTC1018/MyEngVoc) <br/>
 [\[2021\] Android(Java) - 유튜브 뮤직 가사보기 어플](https://github.com/TTC1018/lyrics-search-for-youtube) <br/>
