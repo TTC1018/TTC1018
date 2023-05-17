@@ -18,7 +18,7 @@
 [<div align=center>![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs246)](https://solved.ac/emforhs246)</div>
 
 ## 💻Careers
-**[2023.03~] <img src="https://user-images.githubusercontent.com/39405316/222351194-bfd42e23-3a3d-4bf3-be93-844cb5d9299d.png" width="16">Wavve Tech Internship App Developer**
+**[2023] <img src="https://user-images.githubusercontent.com/39405316/222351194-bfd42e23-3a3d-4bf3-be93-844cb5d9299d.png" width="16">Wavve Tech Internship App Developer**
 
 
 ## 📃Participations
