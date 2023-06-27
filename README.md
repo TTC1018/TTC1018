@@ -2,7 +2,9 @@
 
 # DONG HYEON PARK 박동현 <img src="https://user-images.githubusercontent.com/39405316/112157617-bcdc4780-8c2a-11eb-980f-a378af3b7de6.png" width="30" height="30">
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs246"/>
+<a href="https://solved.ac/profile/emforhs246">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs246"/>
+</a>
 
 <img src="https://user-images.githubusercontent.com/39405316/112158091-2fe5be00-8c2b-11eb-8f42-7b79b5d43bfd.png" width="150" height="137">
 
