@@ -32,4 +32,6 @@
 [\[2020\] Java - 디지털 시계:살빼시계](https://github.com/KU-OOP-TEAM-2/DigitalWatch) <br/>
 [\[2019\] C++ - 노래방 키오스크:쿠인노래방](https://github.com/TTC1018/KUINNORAE) <br/>
 
+## 👨‍💻Blog Posts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ttc1018)](https://velog.io/@eungyeole) 
 </div>
