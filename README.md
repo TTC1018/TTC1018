@@ -25,13 +25,6 @@
 **[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 [우수상](https://user-images.githubusercontent.com/39405316/116955601-f98d6b00-accd-11eb-8a60-e724f8516ad4.png)** <br/>
 
 
-## 🛠️Challenges
-[\[2022~\] Android(Kotlin) - DailyFilm 쇼츠 일기장](https://github.com/boostcampwm-2022/android02-DailyFilm) <br/>
-[\[2021~\] Android(Kotlin) - 나만의 영단어장](https://github.com/TTC1018/MyEngVoc) <br/>
-[\[2021\] Android(Java) - 유튜브 뮤직 가사보기 어플](https://github.com/TTC1018/lyrics-search-for-youtube) <br/>
-[\[2020\] Java - 디지털 시계:살빼시계](https://github.com/KU-OOP-TEAM-2/DigitalWatch) <br/>
-[\[2019\] C++ - 노래방 키오스크:쿠인노래방](https://github.com/TTC1018/KUINNORAE) <br/>
-
 ## 👨‍💻Blog Posts
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ttc1018)](https://velog.io/@ttc1018) 
 </div>
