@@ -8,8 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/39405316/112158091-2fe5be00-8c2b-11eb-8f42-7b79b5d43bfd.png" width="150" height="137">
 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=forthebage&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-f3841c?style=forthebage&logo=Kotlin&logoColor=blue"/> <img src="https://img.shields.io/badge/Java-FFFFFF?style=forthebage&logo=Java&logoColor=orange"/> <br>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=forthebage&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C++-c002c2?style=forthebage&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=forthebage&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=forthebage&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-f3841c?style=forthebage&logo=Kotlin"/>  <br>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=forthebage&logo=Java&logoColor=orange"/> <img src="https://img.shields.io/badge/Python-3766AB?style=forthebage&logo=Python&logoColor=yellow"/> 
 </div>
 
 <div align="center">
