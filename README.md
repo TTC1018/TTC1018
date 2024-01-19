@@ -15,15 +15,9 @@
 <div align="center">
 
 ## 💻Careers
-**[2023] <img src="https://user-images.githubusercontent.com/39405316/222351194-bfd42e23-3a3d-4bf3-be93-844cb5d9299d.png" width="16">Wavve Tech Internship App Developer**
-
-
-## 📃Participations
-**[2023] <img src="https://github.com/TTC1018/TTC1018/assets/39405316/448849ef-a1c4-469b-a012-f075fa0563b9" width="20">현대 소프티어 부트캠프 2기 Android [수료](https://github.com/TTC1018/TTC1018/assets/39405316/575d0af6-0766-4fa7-bebd-812ab593f958)** <br/>
-**[2022] <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16">네이버 부스트캠프 웹모바일 7기 멤버십 [수료](https://user-images.githubusercontent.com/39405316/209513088-21ec2c05-cf6b-468a-9e89-3d1d33239cad.png)** <br/>
-**[2022] <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16">네이버 부스트캠프 웹모바일 7기 챌린지 [수료](https://user-images.githubusercontent.com/39405316/186856331-0a5dc749-cdf2-4d34-a2f3-dad79bbdb8e7.png)** <br/>
-**[2020] <img src="https://user-images.githubusercontent.com/39405316/112165053-bd2c1100-8c31-11eb-91b0-492f45d528f9.jpg" width="16" height="16">삼성 X <img src="https://user-images.githubusercontent.com/39405316/112165278-f2386380-8c31-11eb-9dca-ee093189dfa0.JPG" width="16" height="16">파운더스 3기 블록체인 해커톤 🏆 [우수상](https://user-images.githubusercontent.com/39405316/116955601-f98d6b00-accd-11eb-8a60-e724f8516ad4.png)** <br/>
-
+**[2024.01~] <img src="https://github.com/TTC1018/TTC1018/assets/39405316/28d17c1d-774c-4aca-ba9d-3361599281d9" width="16">[MUZLIVE(KiTbetter)](https://www.kitbetter.com/store/kr/) Android Engineer**  
+**[2023] <img src="https://github.com/TTC1018/TTC1018/assets/39405316/3073d254-8d0c-4f02-b9ca-cfefcf5e383a" width="16">[CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) Software Engineer**  
+**[2023] <img src="https://user-images.githubusercontent.com/39405316/222351194-bfd42e23-3a3d-4bf3-be93-844cb5d9299d.png" width="16">[Wavve](https://www.wavve.com/) Tech Internship App Developer**
 
 ## 👨‍💻Blog Posts
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ttc1018)](https://velog.io/@ttc1018) 
