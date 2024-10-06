@@ -15,7 +15,7 @@
 <div align="center">
 
 ## 💻Careers
-**[2024.01~] <img src="https://github.com/TTC1018/TTC1018/assets/39405316/28d17c1d-774c-4aca-ba9d-3361599281d9" width="16">[MUZLIVE(KiTbetter)](https://www.kitbetter.com/store/kr/) Android Engineer**  
+**[2024.01~] <img src="https://github.com/TTC1018/TTC1018/assets/39405316/28d17c1d-774c-4aca-ba9d-3361599281d9" width="16">[KiTbetter](https://www.kitbetter.com/store/kr/) Android Engineer**  
 **[2023] <img src="https://github.com/TTC1018/TTC1018/assets/39405316/3073d254-8d0c-4f02-b9ca-cfefcf5e383a" width="16">[CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) Software Engineer**  
 **[2023] <img src="https://user-images.githubusercontent.com/39405316/222351194-bfd42e23-3a3d-4bf3-be93-844cb5d9299d.png" width="16">[Wavve](https://www.wavve.com/) Tech Internship App Developer**
 
