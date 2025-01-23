@@ -21,4 +21,8 @@
 
 ## 👨‍💻Blog Posts
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ttc1018)](https://velog.io/@ttc1018) 
+
+## 🧩 Participating in Open Source
+[Kaspresso v.1.6.0](https://github.com/KasperskyLab/Kaspresso/releases/tag/v.1.6.0) - [ISSUE-652: define ALLOW_ALL & ALLOW_SELECTED on Permissions.Button](https://github.com/KasperskyLab/Kaspresso/pull/653)
+
 </div>
