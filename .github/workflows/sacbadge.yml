@@ -1,0 +1,81 @@
+# solved.ac 배지를 미리 받아 이 저장소의 output 브랜치에 올려 두는 GitHub Actions 워크플로.
+# README 가 배지 서버 대신 raw.githubusercontent.com 의 이 파일을 가리키면, 서버가 내려가 있다가 다시 뜨느라 늦어도 배지가 바로 보인다.
+# 프로필 저장소의 .github/workflows/sacbadge.yml 로 복사하고 아래 BADGES 의 주소를 고쳐 쓴다.
+name: solved.ac 배지
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # 6시간마다(UTC 기준). 매시 정각은 실행이 몰려 늦어질 수 있어 피한다
+  workflow_dispatch: # Actions 탭의 Run workflow 로 바로 실행
+  push:
+    paths: [.github/workflows/sacbadge.yml] # 이 파일을 고쳐 올리면 바로 다시 받는다
+
+permissions:
+  contents: write # output 브랜치에 올리는 권한
+
+concurrency:
+  group: sacbadge # 실행이 겹치면 앞 실행이 끝날 때까지 기다린다
+
+env:
+  # 받을 배지. 한 줄에 "파일 이름  배지 주소" 를 적고, 주소는 README 에 넣던 배지 주소를 그대로 쓴다
+  BADGES: |
+    sacbadge.svg       https://sacbadge.vercel.app/api/badge?handle=ttc1018&company=엔에이치엔&bg=https://raw.githubusercontent.com/TTC1018/TTC1018/main/crystallize.jpg
+    sacbadge-dark.svg  https://sacbadge.vercel.app/api/badge?handle=ttc1018&company=엔에이치엔&bg=https://raw.githubusercontent.com/TTC1018/TTC1018/main/crystallize.jpg&theme=dark
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 배지를 받아 output 브랜치에 올리기
+        shell: bash
+        env:
+          REMOTE: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
+        run: |
+          set -euo pipefail
+          git init -q -b output badges
+          cd badges
+          git remote add origin "$REMOTE"
+
+          # 이전에 올린 배지. 이번에 받지 못한 배지는 이전 것을 그대로 올린다
+          previous=""
+          if git fetch -q --depth=1 origin output 2>/dev/null; then
+            previous=$(git rev-parse 'FETCH_HEAD^{tree}')
+          fi
+
+          failed=0
+          missing=0
+          while read -r file url; do
+            case "$file" in ''|'#'*) continue ;; esac
+            # 서버가 다시 뜨는 시간(약 6초)을 넉넉히 기다리고, solved.ac 장애 같은 일시적인 오류(5xx)는 다시 시도한다.
+            # 주소 끝의 _ 는 Vercel CDN 에 남아 있는 이전 배지 대신 지금 그린 배지를 받으려고 매번 다르게 붙이는 값으로, 서버는 무시한다
+            if type=$(curl -sS --fail --retry 3 --retry-delay 20 --max-time 60 -o "$file.new" -w '%{content_type}' "$url&_=$(date +%s)") &&
+               [[ $type == image/svg+xml* ]]; then
+              mv "$file.new" "$file"
+              echo "받음: $file"
+              continue
+            fi
+            rm -f "$file.new"
+            failed=1
+            if [ -n "$previous" ] && git checkout -q FETCH_HEAD -- "$file" 2>/dev/null; then
+              echo "::warning::$file 을 받지 못해 이전 배지를 그대로 둔다"
+            else
+              echo "::error::$file 을 받지 못했다"
+              missing=1
+            fi
+          done <<< "$BADGES"
+
+          # 한 파일이라도 없으면 올리지 않는다. 그대로 올리면 README 에서 그 이미지가 깨진다
+          if [ "$missing" = 1 ]; then exit 1; fi
+
+          git add -A
+          if [ "$(git write-tree)" = "$previous" ]; then
+            echo "바뀐 배지가 없다"
+          else
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -qm "solved.ac 배지 갱신"
+            # 이전 기록 없이 커밋 하나로 덮어써 저장소가 커지지 않게 한다
+            git push -qf origin output
+          fi
+          # 이전 배지로 대신한 파일이 있으면 실행을 실패로 표시해 알린다
+          exit "$failed"
