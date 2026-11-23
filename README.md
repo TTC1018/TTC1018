@@ -4,8 +4,8 @@
 
 <a href="https://solved.ac/u/ttc1018">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://sacbadge.vercel.app/api/badge?handle=ttc1018&company=엔에이치엔&bg=https://raw.githubusercontent.com/TTC1018/TTC1018/main/crystallize.jpg&theme=dark">
-    <img alt="solved.ac ttc1018" src="https://sacbadge.vercel.app/api/badge?handle=ttc1018&company=엔에이치엔&bg=https://raw.githubusercontent.com/TTC1018/TTC1018/main/crystallize.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTC1018/TTC1018/output/sacbadge-dark.svg">
+    <img alt="solved.ac ttc1018" src="https://raw.githubusercontent.com/TTC1018/TTC1018/output/sacbadge.svg">
   </picture>
 </a>
 </div>
